@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT zyjswiadomielife_1327.wsgi:application
